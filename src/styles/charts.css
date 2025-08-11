@@ -1,0 +1,13 @@
+.chart-page {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.back-link {
+  display: inline-block;
+  margin-top: 2rem;
+  color: #2563eb;
+  font-weight: bold;
+  text-decoration: none;
+}
