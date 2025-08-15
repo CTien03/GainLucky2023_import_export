@@ -1,4 +1,4 @@
-# 🏭 GainLucky 2023 – Fabric & Apparel Trade Analytics
+# 🏭 **GainLucky 2023** – Fabric & Apparel Trade Analytics  
 ### 📊 Hệ thống phân tích dữ liệu nhập khẩu & xuất khẩu ngành dệt may
 
 ---
