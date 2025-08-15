@@ -1,4 +1,9 @@
-# 📊 GainLucky2023 – Hệ thống phân tích dữ liệu nhập/xuất vải & hàng may mặc
+# 🏭 GainLucky 2023 – Fabric & Apparel Trade Analytics
+### 📊 Hệ thống phân tích dữ liệu nhập khẩu & xuất khẩu ngành dệt may
+
+---
+
+> 🔍 **Mục tiêu:** Hỗ trợ phân tích nhanh chóng dữ liệu ngành dệt may, từ nhập khẩu đến xuất khẩu, giúp ra quyết định thông minh hơn.
 
 ## 📝 Giới thiệu
 **GainLucky2023** là hệ thống phân tích dữ liệu toàn diện cho ngành dệt may, giúp doanh nghiệp:
