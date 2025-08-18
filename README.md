@@ -69,4 +69,4 @@ Hệ thống được thiết kế với **2 luồng dữ liệu chính** và kh
 5. Tạo **Pull Request**.
 
 ## Sản phẩm 
-link: https://spontaneous-tarsier-a093ee.netlify.app/
+link: https://stirring-blini-087b86.netlify.app/
